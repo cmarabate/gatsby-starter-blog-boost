@@ -19,4 +19,10 @@
     "slug": "topic-4",
     "image": "../../static/images/topic4logo.jpg"
   }
+,
+  {
+    "name": "Test Topic",
+    "slug": "test-topic",
+    "image": "../../static/images/topic4logo.jpg"
+  }
 ]
